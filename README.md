@@ -1,6 +1,9 @@
+<img  width="90" align="right" src="https://pbs.twimg.com/media/EyNX1CpXEAENhDg?format=jpg&name=large">
+
 - 👋 Hi, I’m @Wongt8
 - 👀 I’m interested in programming and animes/mangas
 - 🌱 I’m currently learning Python/Java/C/C#/JavaScript/Sql/Html/Css
+
 
 </br></br>
 
