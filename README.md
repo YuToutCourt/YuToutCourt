@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Wongt8
 - 💻 Apprentice developer
 - 👀 I’m interested in programming and animes/mangas
-- 🌱 I’m currently learning Python/Java/C/C#/JavaScript/Sql/Html/Css
+- 🌱 I’m currently learning Python/Java/C/C#/PHP/Sql/JavaScript/Html/Css
 
 
 </br></br>
