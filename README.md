@@ -1,6 +1,6 @@
 <img  width="90" align="right" src="https://pbs.twimg.com/media/EyNX1CpXEAENhDg?format=jpg&name=large">
 
-- 👋 Hi, I’m @Wongt8
+- 👋 Hi, I’m @Wongt8 (a.k.a Yohann) 
 - 💻 Apprentice developer
 - 👀 I’m interested in programming and animes/mangas
 - 🌱 I’m currently learning Python/Java/C/C#/PHP/Sql/JavaScript/Html/Css
