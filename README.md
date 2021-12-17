@@ -16,9 +16,11 @@
 
 </br></br>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 🔥 From [Wongt8](https://github.com/Wongt8)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Wongt8)
-[![GitHub: @leoderoin](https://img.shields.io/github/followers/Wongt8?label=follow&style=social)](https://github.com/Wongt8)
+[![GitHub: @Wongt8](https://img.shields.io/github/followers/Wongt8?label=follow&style=social)](https://github.com/Wongt8)
 
 
 <!---
