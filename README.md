@@ -1,4 +1,4 @@
-<img  width="90" align="right" src="https://pbs.twimg.com/media/EyNX1CpXEAENhDg?format=jpg&name=large">
+<img  width="150" align="right" src="https://pbs.twimg.com/media/EyNX1CpXEAENhDg?format=jpg&name=large">
 
 - 👋 Hi, I’m @Yù
 - 💻 Apprentice developer
