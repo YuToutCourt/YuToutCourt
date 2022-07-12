@@ -1,12 +1,15 @@
 <img  width="150" align="right" src="https://pbs.twimg.com/media/EyNX1CpXEAENhDg?format=jpg&name=large">
 
 - 👋 Hi, I’m @Yù
-- 💻 Apprentice developer
+- 💻 Apprentice developer and cybersecurity studends
 - 👀 I’m interested in programming and animes/mangas
 - 🌱 I’m currently learning Python/Java/C/C#/PHP/Sql/JavaScript/Html/Css
 
 
-</br></br>
+TryHackMe profile</br></br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Wongt8.png" alt="TryHackMe">
+
+</br>
 
 ## ⚡ Stats
 
