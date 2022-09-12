@@ -7,7 +7,6 @@
 
 
 TryHackMe profile</br></br>
- <img src="https://tryhackme-badges.s3.amazonaws.com/Wongt8.png" alt="TryHackMe">
 
 </br>
 
