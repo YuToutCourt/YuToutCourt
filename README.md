@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Yù
 - 💻 Apprentice developer and cybersecurity students
-- 👀 I’m interested in programming and animes/mangas
+- 👀 I’m interested in programming/hacking and animes/mangas
 - 🌱 I’m currently learning Python/Java/C/C#/PHP/Sql/JavaScript/Html/Css
 
 TryHackMe profile</br></br>
