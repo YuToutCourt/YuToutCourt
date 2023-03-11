@@ -5,10 +5,8 @@
 - 👀 I’m interested in programming/hacking and animes/mangas
 - 🌱 I’m currently learning hacking and some cool programming stuff
 
-Root-me profile</br></br>
-<a>
-<img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509">https://www.root-me.org/Yu
-</a>
+Root-me profile</br>
+https://www.root-me.org/Yu</br>
 
 TryHackMe profile</br></br>
  <img src="https://tryhackme-badges.s3.amazonaws.com/Wongt8.png" alt="TryHackMe">
