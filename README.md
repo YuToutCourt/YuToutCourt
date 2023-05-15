@@ -13,6 +13,8 @@ TryHackMe profile</br></br>
 </br>
 
  Sometimes not up to date so you can check here : https://tryhackme.com/p/Wongt8
+ 
+ Codingame profile : https://www.codingame.com/profile/8198db70fd0eab477f3c9c5edafcd5c08785223
 
 ## ⚡ Stats
 
