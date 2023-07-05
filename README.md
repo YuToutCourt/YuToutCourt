@@ -30,7 +30,7 @@
       <a href="https://www.codingame.com/profile/8198db70fd0eab477f3c9c5edafcd5c08785223">
         <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="58" height="58" alt="codinggame" />
       </a>
-      <br>TryHackMe
+      <br>CodinGame
     </td>
     
 </table>
