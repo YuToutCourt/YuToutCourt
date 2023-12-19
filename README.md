@@ -9,7 +9,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://app.hackthebox.com/users/796022">
-        <img src="https://pbs.twimg.com/profile_images/1610589411682418690/GBT-ZJlC_400x400.jpg" width="70" height="68" alt="hackthebox" />
+        <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-70x70.png" width="70" height="68" alt="hackthebox" />
       </a>
       <br>HackTheBox
     </td>
