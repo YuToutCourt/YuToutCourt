@@ -28,7 +28,7 @@
     </td>
       <td align="center" width="96">
       <a href="https://yeswehack.com/hunters/yutoutcourt">
-        <img src="https://cdn-yeswehack.com/user/avatar/default_image" width="58" height="58" alt="codinggame" />
+        <img src="https://cdn.sanity.io/images/d51e1jt0/production/443a08282df5f1a9205a3c8363590ea18c70b964-267x348.svg" width="58" height="58" alt="yeswehack" />
       </a>
       <br>YesWeHack
     </td>
