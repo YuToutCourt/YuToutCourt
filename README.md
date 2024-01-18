@@ -1,7 +1,7 @@
 <img  width="150" align="right" src="https://pbs.twimg.com/media/EyNX1CpXEAENhDg?format=jpg&name=large">
 
 - 👋 Hi, I’m @Yù
-- 💻 Apprentice developer and cybersecurity students
+- 💻 Apprentice developer and cybersecurity student
 - 👀 I’m interested in programming/hacking and animes/mangas
 - 🌱 I’m currently learning hacking and some cool programming stuff
 
